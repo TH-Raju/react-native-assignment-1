@@ -5,4 +5,4 @@
 
 # The final Output
 
-![Alt Text](./assets/image.jpg)
+<img src="./assets/image.jpg" alt="Alt Text" style="height: 900px; width: 400px; border: 1px solid black; border-radius: 1%;" />
